@@ -29,9 +29,13 @@ I feel very accomplished knowing that I can effectively create a complex databas
 11. Then try out the different routes using an application like Insomnia Core
 
 ## Usage
+https://github.com/Lorenzo-Olivar/Silk-E-Road/assets/131014446/b74bc787-0147-4f51-836e-f6bc5591cdfb
 
+https://github.com/Lorenzo-Olivar/Silk-E-Road/assets/131014446/b74ffc8a-dbce-4c4f-9f22-4b0022329ec6
 
+https://github.com/Lorenzo-Olivar/Silk-E-Road/assets/131014446/512d250e-59d2-4c5c-bde0-c0a21239e96d
 
+https://github.com/Lorenzo-Olivar/Silk-E-Road/assets/131014446/8f9a8a8d-03d7-4f46-9a04-d918c6f41150
 ## Credits
 
 [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
